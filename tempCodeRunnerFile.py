@@ -82,14 +82,14 @@ def extract_specific_content(url):
 def save_to_csv(data, csv_file_path):
     with open(csv_file_path, 'a', newline='', encoding='uft-8') as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['Heading', 'Author', 'Publication_date', 'Source', 'Content', 'Link', 'Category'])
+        csv_writer.writerow(['Category', 'Heading', 'Author', 'Publication_date', 'Source', 'Content'])
         csv_writer.writerow(data)
 
 def main():
     csv_file_path = 'kathmandupost.csv'
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['Heading', 'Author', 'Publication_date', 'Source', 'Content', 'Link', 'Category'])
+        csv_writer.writerow(['Category', 'Heading', 'Author', 'Publication_date', 'Source', 'Content'])
 
     url = 'https://kathmandupost.com'
     links = extract_all_links(url)

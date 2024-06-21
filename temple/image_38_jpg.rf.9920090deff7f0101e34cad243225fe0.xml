@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>image_38_jpg.rf.9920090deff7f0101e34cad243225fe0.jpg</filename>
+	<path>image_38_jpg.rf.9920090deff7f0101e34cad243225fe0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>979</width>
+		<height>669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>temple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>3</xmin>
+			<xmax>977</xmax>
+			<ymin>2</ymin>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>tempe</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>image_81_jpg.rf.194b1750fd625a78aa16a6c945efe3ae.jpg</filename>
+	<path>image_81_jpg.rf.194b1750fd625a78aa16a6c945efe3ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>balloon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>640</xmax>
+			<ymin>2</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>balloon</tag>
+		</tags>
+	</metadata>
+</annotation>

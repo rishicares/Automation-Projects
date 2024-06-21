@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_5_jpg.rf.d1712c18c65d7a0bb6c7e8a2f39b1e3a.jpg</filename>
+	<path>image_5_jpg.rf.d1712c18c65d7a0bb6c7e8a2f39b1e3a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>678</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>271</xmin>
+			<xmax>618</xmax>
+			<ymin>76</ymin>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+</annotation>

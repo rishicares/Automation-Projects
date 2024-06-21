@@ -1,0 +1,19 @@
+<annotation>
+	<folder></folder>
+	<filename>image_42_jpg.rf.d17f535d9e60ab6b8cd68b972aef3853.jpg</filename>
+	<path>image_42_jpg.rf.d17f535d9e60ab6b8cd68b972aef3853.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>769</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+		<tags>
+			<tag>car</tag>
+		</tags>
+	</metadata>
+</annotation>

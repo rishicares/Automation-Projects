@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_33_jpg.rf.03b3d0293d3239e70d17630b75e65659.jpg</filename>
+	<path>image_33_jpg.rf.03b3d0293d3239e70d17630b75e65659.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>363</xmin>
+			<xmax>922</xmax>
+			<ymin>274</ymin>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

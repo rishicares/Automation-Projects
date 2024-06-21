@@ -1,0 +1,19 @@
+<annotation>
+	<folder></folder>
+	<filename>image_90_jpg.rf.c1c5a293f9f111db6920d2ceb4a9799a.jpg</filename>
+	<path>image_90_jpg.rf.c1c5a293f9f111db6920d2ceb4a9799a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+		<tags>
+			<tag>tempe</tag>
+		</tags>
+	</metadata>
+</annotation>

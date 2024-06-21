@@ -1,0 +1,19 @@
+<annotation>
+	<folder></folder>
+	<filename>image_83_jpg.rf.2a083fa737eb9fa387ea57e0ee613918.jpg</filename>
+	<path>image_83_jpg.rf.2a083fa737eb9fa387ea57e0ee613918.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+		<tags>
+			<tag>balloon</tag>
+		</tags>
+	</metadata>
+</annotation>

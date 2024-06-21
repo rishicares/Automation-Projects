@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>image_4_jpg.rf.aeb428470293b8d0182b8905681974a2.jpg</filename>
+	<path>image_4_jpg.rf.aeb428470293b8d0182b8905681974a2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>315</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>296</xmax>
+			<ymin>4</ymin>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>chair</tag>
+		</tags>
+	</metadata>
+</annotation>

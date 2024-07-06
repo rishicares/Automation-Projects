@@ -1,0 +1,17 @@
+train: data_images/train
+val: data_images/test
+nc: 11
+names:
+  [
+    "car",
+    "tiger",
+    "door",
+    "balloon",
+    "bird",
+    "plane",
+    "bottle",
+    "chair",
+    "table",
+    "computer",
+    "temple",
+  ]
